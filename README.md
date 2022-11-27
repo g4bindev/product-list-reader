@@ -6,7 +6,7 @@
 
 ## Pré Requisitos:
 
-Para o funcionamento do programa o arquivo de entrada deve seguir o padrão de 3 dados por linha, onde o primeiro deve ser do tipo String, o segundo do tipo Double, e o terceiro do tipo Integer com o separador entre eles sendo ";", seguindo esta lógica:
+Para o funcionamento do programa o arquivo de entrada deve seguir o padrão de 3 dados por linha, onde o primeiro deve ser do tipo String, o segundo do tipo Double, e o terceiro do tipo Integer com o separador entre eles sendo ";" seguindo esta lógica:
 
 * nome_do_produto;preço;quantidade
 * TV LED;1432.00;1
@@ -14,4 +14,4 @@ Para o funcionamento do programa o arquivo de entrada deve seguir o padrão de 3
 ## Utilidades:
 
 1) Generate Summary - Gera um arquivo summary.csv que contém o nome e o subtotal do produto
-2) List Products - Imprime todos os produtos dentro da lista
+2) List Products - Imprime todos os produtos listados no arquivo
